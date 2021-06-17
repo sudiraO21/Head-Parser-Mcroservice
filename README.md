@@ -3,7 +3,7 @@
 # Request Header Parser Microservice
 A Request Header Parser Microservice api project to get IP address, preferred languages (from header Accept-Language) and system infos (from header User-Agent) for your device.
 
-# Install
+# Installation
 
 ```bash
 # Install dependencies
