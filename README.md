@@ -17,7 +17,7 @@ Access it at localhost:3000
 
 Example Usage:
 - [base url]/api/whoami
-- [Preview](https://request-header-parser-microservice.freecodecamp.rocks/api/whoami)
+- [Preview](https://request-header-parser-microservice.freecodecamp.rocks/)
 
 Example Output:
 ```json
