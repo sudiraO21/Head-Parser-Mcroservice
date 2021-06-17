@@ -1,6 +1,4 @@
 # [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
-
-# Request Header Parser Microservice
 A Request Header Parser Microservice api project to get IP address, preferred languages (from header Accept-Language) and system infos (from header User-Agent) for your device.
 
 # Installation
